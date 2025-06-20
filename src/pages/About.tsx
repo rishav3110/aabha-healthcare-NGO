@@ -9,7 +9,7 @@ const About = () => {
     {
       name: "Mr. Amulya Borah",
       role: "Founder & Director",
-      image: "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=200&h=200&fit=crop&crop=face",
+      image: "https://res.cloudinary.com/dznsayyvw/image/upload/v1750450535/WhatsApp_Image_2025-06-20_at_10.28.36_PM_yi8na2.jpg",
       bio: "Social worker and community organizer passionate about grassroots development."
     }
   ];
