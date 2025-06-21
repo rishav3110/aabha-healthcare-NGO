@@ -16,7 +16,7 @@ const HeroSection = () => {
           {/* Content */}
           <div className="space-y-8 animate-fade-in">
             <h1 className="text-4xl md:text-6xl font-bold text-stone-800 leading-tight">
-              Compassionate <span className='text-green-600'>Care</span> Right at Your 
+              Compassionate Care Right at Your 
               <span className="text-stone-800 block">Doorstep</span>
             </h1>
             
